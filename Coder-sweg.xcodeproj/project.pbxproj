@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		EA04F5861F3E05A10087B947 /* ProductCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = EA04F5851F3E05A10087B947 /* ProductCell.swift */; };
 		EA3D3C0F1F3B6600007EBC1F /* Category.swift in Sources */ = {isa = PBXBuildFile; fileRef = EA3D3C0E1F3B6600007EBC1F /* Category.swift */; };
 		EA3D3C121F3B6C25007EBC1F /* DataService.swift in Sources */ = {isa = PBXBuildFile; fileRef = EA3D3C111F3B6C25007EBC1F /* DataService.swift */; };
 		EAA56C591F38BD4C00633751 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = EAA56C581F38BD4C00633751 /* AppDelegate.swift */; };
@@ -18,6 +19,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		EA04F5851F3E05A10087B947 /* ProductCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ProductCell.swift; sourceTree = "<group>"; };
 		EA3D3C0E1F3B6600007EBC1F /* Category.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Category.swift; sourceTree = "<group>"; };
 		EA3D3C111F3B6C25007EBC1F /* DataService.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DataService.swift; sourceTree = "<group>"; };
 		EAA56C551F38BD4C00633751 /* Coder-sweg.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Coder-sweg.app"; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -101,6 +103,7 @@
 			isa = PBXGroup;
 			children = (
 				EAA56C6D1F38C5A200633751 /* CategoryCell.swift */,
+				EA04F5851F3E05A10087B947 /* ProductCell.swift */,
 			);
 			path = View;
 			sourceTree = "<group>";
@@ -179,6 +182,7 @@
 				EAA56C5B1F38BD4C00633751 /* CategoriesVC.swift in Sources */,
 				EAA56C591F38BD4C00633751 /* AppDelegate.swift in Sources */,
 				EAA56C6E1F38C5A200633751 /* CategoryCell.swift in Sources */,
+				EA04F5861F3E05A10087B947 /* ProductCell.swift in Sources */,
 				EA3D3C0F1F3B6600007EBC1F /* Category.swift in Sources */,
 				EA3D3C121F3B6C25007EBC1F /* DataService.swift in Sources */,
 			);
